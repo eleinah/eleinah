@@ -8,7 +8,7 @@ I'm a solver of puzzles, lover of all music, petter of dogs & cats, explorer of 
 [![My Skills](https://skillicons.dev/icons?i=java,lua)](https://skillicons.dev)
 
 #### 📚 Languages I'm working on picking up...
-[![My Skills](https://skillicons.dev/icons?i=nix,c,go)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,go)](https://skillicons.dev)
 
 #### 🌠 Languages I want to pick up and learn...
 [![My Skills](https://skillicons.dev/icons?i=elixir,rust,cpp)](https://skillicons.dev)
