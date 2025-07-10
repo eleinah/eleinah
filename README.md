@@ -7,7 +7,7 @@ I'm a solver of puzzles, lover of all music, petter of dogs & cats, explorer of 
 [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
 
 #### <ins> Familiar </ins>
-[![My Skills](https://skillicons.dev/icons?i=java,lua)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,lua,bash,powershell)](https://skillicons.dev)
 
 #### <ins> Picking Up </ins>
 [![My Skills](https://skillicons.dev/icons?i=c,go)](https://skillicons.dev)
