@@ -19,5 +19,5 @@ I'm a solver of puzzles, lover of all music, petter of dogs & cats, explorer of 
 
 #### <ins> What do I get up to? </ins>
 - During the day, I'm a sysadmin, and at night, I'm a developer, homelabber, and security enthusiast.
-- You'll usually find me listening to lots of music or diving into a variety of games, find me on [Steam](https://steamcommunity.com/id/lly-h) and [Spotify](https://open.spotify.com/user/dailymind?si=80924e3f9b974c9a)!
-- I love to hike and go touch grass, it's quite relaxing and a great way to decompress.
+- You'll usually find me listening to lots of music or diving into a variety of games!
+- I love to hike and go touch grass, it's quite relaxing and a great way to decompress <:^)
