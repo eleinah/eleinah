@@ -13,7 +13,7 @@ I'm a solver of puzzles, lover of all music, petter of dogs & cats, explorer of 
 [![My Skills](https://skillicons.dev/icons?i=go)](https://skillicons.dev)
 
 #### <ins> Future Endeavors </ins>
-[![My Skills](https://skillicons.dev/icons?i=elixir,rust,cpp,cs,ocaml)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=elixir,rust,zig,cs)](https://skillicons.dev)
 
 ---
 
