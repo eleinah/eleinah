@@ -41,4 +41,7 @@ I'm a solver of puzzles, lover of all music, petter of dogs & cats, explorer of 
 
 ---
 
-[![Free Software Foundation](https://static.fsf.org/nosvn/associate/crm/6926091.png)](https://www.fsf.org/)
+[![My Badge](https://static.fsf.org/nosvn/associate/crm/6926091.png)](https://my.fsf.org/join?referrer=6926091)
+
+[Free Software Foundation](https://www.fsf.org)
+
