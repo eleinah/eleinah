@@ -10,7 +10,10 @@
 I'm a solver of puzzles, lover of all music, petter of dogs & cats, explorer of trails, and enjoyer of all art. I have spent most of my time doing IT ops, and am recently diving back into development after being out of practice for nearly a decade.
 
 ---
-
+<!-- 
+- Currently working on: rewriting [~~PacLean~~](https://github.com/eleinah/paclean) (*new name coming soon...*)
+- Currently learning: [the Charm suite](https://charm.sh/libs/)
+-->
 - If you're interested in seeing the projects I'm most proud of, check out my pinned repos.
 - Langs:
   - Comfortable & preferred:
@@ -24,9 +27,8 @@ I'm a solver of puzzles, lover of all music, petter of dogs & cats, explorer of 
   - Curious about:
     - Rust
     - Elixir
-    - C#
 - I'm actively looking to contribute to open source and will update what I'm contributing to most here.
-- Always looking for fun and exciting new things to work on, please feel free to contact me if you'd like to work together!
+- Always looking for fun and exciting new things to work on, please feel free to [contact me](mailto:github@lly.email) if you'd like to work together!
 <!-- - Looking to get into making 2D games with Godot & learning pixel art sometime in the future -->
 
 ---
