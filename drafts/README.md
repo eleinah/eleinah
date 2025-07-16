@@ -1,1 +1,35 @@
-### Hi, I'm Eleina! 👋 <sup> *\~or Ellie/El for short!\~* </sup>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,arch,bots,go,githubactions,docker,pycharm,git,cloudflare,neovim,linux,lua,bash,nginx" />
+  </a>
+</p>
+
+### Hi, I'm Eleina! 👋 <sup> *or Ellie/El for short!* </sup>
+I'm a solver of puzzles, lover of all music, petter of dogs & cats, explorer of trails, and enjoyer of all art. I've loved all things tech since I can remember, and curiosity fuels me. I have spent most of my time doing IT ops, and am recently diving back into development after being out of practice for nearly a decade.
+
+---
+
+- If you're interested in seeing the projects I'm most proud of, check out my pinned repos.
+- Langs:
+  - Comfortable & preferred:
+    - Python
+    - Go
+  - Familiar but don't use much:
+    - Lua
+    - Bash
+  - Limited exposure:
+    - Java
+- I'm actively looking to contribute to open source and will update what I'm contributing to most here.
+- Always looking for fun and exciting new things to work on, please feel free to contact me if you'd like to work together!
+- Not actively looking for a job but I would like to segway into DevOps or backend development eventually.
+<!-- - Looking to get into making 2D games with Godot & learning pixel art sometime in the future -->
+
+---
+
+#### <ins> What do I get up to? </ins>
+- During the day, I'm a sysadmin, and at night, I'm a developer, homelabber, and security enthusiast.
+- You'll usually find me listening to lots of music or diving into a variety of games!
+- I love to hike and go touch grass, it's quite relaxing and a great way to decompress <:^)
+<!-- - Check out [my blog](https://eleina.dev/blog) for more -->
+
+[![Free Software Foundation](https://static.fsf.org/nosvn/associate/crm/6926091.png)](https://www.fsf.org/)
