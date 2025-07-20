@@ -14,7 +14,7 @@ I'm a solver of puzzles, lover of all music, petter of dogs & cats, explorer of 
 - Currently working on: rewriting [~~PacLean~~](https://github.com/eleinah/paclean) (*new name coming soon...*)
 - Currently learning: [the Charm suite](https://charm.sh/libs/)
 -->
-- If you're interested in seeing the projects I'm most proud of, check out my pinned repos.
+<!-- - If you're interested in seeing the projects I'm most proud of, check out my pinned repos. -->
 - Langs:
   - Comfortable & preferred:
     - Python
