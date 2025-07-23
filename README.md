@@ -4,7 +4,7 @@
   </a>
 </p>
 
-# 🚨 I've migrated to [Codeberg](https://codeberg.org/eleina), check out my profile and projects there. This will remain solely to contribute to any open source projects I'm interested in found only on GitHub. 
+# 🚨 I've migrated to [Codeberg](https://codeberg.org/eleina), check out my profile and projects there. This will remain solely to contribute to any open source projects I'm interested in that are found only on GitHub. 
 
 # [Where'd the GitHub README.md go?!](https://codeberg.org/eleina/eleina/src/branch/main/README.md)
 
