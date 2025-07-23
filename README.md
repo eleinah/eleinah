@@ -8,3 +8,4 @@
 
 # [Where'd the GitHub README.md go?!](https://codeberg.org/eleina/eleina/src/branch/main/README.md)
 
+<sub> *I may also put mirrors here.* </sub>
