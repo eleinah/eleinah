@@ -24,6 +24,7 @@ I'm a solver of puzzles, lover of all music, petter of dogs & cats, explorer of 
     - Bash
   - Limited exposure:
     - Java
+    - Lisp
   - Curious about:
     - Rust
     - Elixir
