@@ -27,6 +27,7 @@ I'm a solver of puzzles, lover of all music, petter of dogs & cats, explorer of 
     - Lisp
   - Curious about:
     - Rust
+    - Uiua
     - Elixir
 - I'm actively looking to contribute to open source and will update what I'm contributing to most here.
 - Always looking for fun and exciting new things to work on, please feel free to [contact me](mailto:eleina@member.fsf.org) if you'd like to work together!
