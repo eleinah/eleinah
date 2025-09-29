@@ -23,6 +23,7 @@ I'm a solver of puzzles, lover of all music, petter of dogs & cats, explorer of 
     - Lua
     - Bash
   - Limited exposure:
+    - C
     - Java
     - Lisp
   - Curious about:
