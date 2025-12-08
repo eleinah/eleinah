@@ -21,10 +21,9 @@ I'm a solver of puzzles, lover of all music, petter of dogs & cats, explorer of 
     - Go *(main language of focus)*
   - Familiar but don't use much:
     - Lua
-    - Bash
-  - Limited exposure:
-    - C
     - Java
+  - Limited exposure:
+    - C/C++
     - Lisp
   - Curious about:
     - Rust
