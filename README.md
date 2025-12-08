@@ -24,6 +24,7 @@ I'm a solver of puzzles, lover of all music, petter of dogs & cats, explorer of 
     - Java
   - Limited exposure:
     - C/C++
+    - C#
     - Lisp
   - Curious about:
     - Rust
