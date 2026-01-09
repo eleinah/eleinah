@@ -28,7 +28,7 @@ I'm a solver of puzzles, lover of all music, petter of dogs & cats, explorer of 
     - Lisp
   - Curious about:
     - Rust
-    - Uiua
+    - Odin
     - Elixir
 - Always looking for fun and exciting new things to work on, please feel free to [contact me](mailto:eleina@member.fsf.org) if you'd like to work together!
 <!-- - Looking to get into making 2D games with Godot & learning pixel art sometime in the future -->
