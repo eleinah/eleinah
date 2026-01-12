@@ -10,7 +10,7 @@
   
   [Codeberg](https://codeberg.org/eleina)
   
-  [My selfhosted Forgejo](https://git.eleina.dev)
+  [My selfhosted Forgejo](https://git.eleina.dev/eleina)
 
 ---
 
