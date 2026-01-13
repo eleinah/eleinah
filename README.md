@@ -2,7 +2,7 @@
 
   # Goodbye, GitHub!
 
-  I have decided that I will no longer be using and depending on GitHub to host my Git repositories or CI/CD.
+  I have decided that I will no longer be using or depending on GitHub to host my Git repositories or CI/CD.
 
   Learn more at [Give Up GitHub](https://giveupgithub.org/) on why and how you should consider doing the same, so we can continue building a truly free and open-source ecosystem, free from proprietary control.
 
