@@ -9,8 +9,6 @@
   Moving forward, you can find my work at the following places:
   
   [Codeberg](https://codeberg.org/eleina)
-  
-  [My selfhosted Forgejo](https://git.eleina.dev/eleina)
 
   I'll still be contributing on here, as well as perusing and starring repos I find interesting.
 
