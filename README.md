@@ -12,6 +12,8 @@
   
   [My selfhosted Forgejo](https://git.eleina.dev/eleina)
 
+  I'll still be contributing on here, as well as perusing and starring repos I find interesting.
+
 ---
 
 [![My Badge](https://static.fsf.org/nosvn/associate/crm/6926091.png)](https://my.fsf.org/join?referrer=6926091)
