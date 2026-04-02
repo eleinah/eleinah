@@ -8,9 +8,9 @@
 
   Moving forward, you can find my work at the following places:
   
-  [Codeberg](https://codeberg.org/eleina) (where my more public facing projects live)
+  [Codeberg](https://codeberg.org/eleina) <sub>(where my more public facing projects live)</sub>
   
-  [sourcehut](https://sr.ht/~eleina/) (where most of my stuff lives)
+  [sourcehut](https://sr.ht/~eleina/) <sub>(where most of my stuff lives)</sub>
 
   I'll still be contributing on here, as well as perusing and starring repos I find interesting.
 
