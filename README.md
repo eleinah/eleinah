@@ -6,7 +6,7 @@
 
   Learn more at [Give Up GitHub](https://giveupgithub.org/) on why and how you should consider doing the same, so we can continue building a truly free and open-source ecosystem, free from proprietary control.
 
-  Moving forward, you can find my work at [Codeberg](https://codeberg.org/eleina) <sup><sub><sup>[\[mirror\]](https://git.eleina.dev)</sup></sub></sup>
+  Moving forward, you can find my work at [Codeberg](https://codeberg.org/eleina) <sup><sub><sup>[\[mirror\]](https://git.mironia.net/eleina)</sup></sub></sup>
 
   I'll still be contributing on here, as well as perusing and starring repos I find interesting.
 
